@@ -1,0 +1,21 @@
+
+Debug/
+Release/
+x64/
+[Dd]ebug/
+[Rr]elease/
+
+
+.vs/
+*.user
+*.aps
+*.opendb
+*.pdb
+*.ilk
+*.log
+*.obj
+*.tlog/
+*.recipe
+
+# Executables
+*.exe
